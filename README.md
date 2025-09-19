@@ -16,7 +16,7 @@
 ### 📊 GitHub Stats
 ![Jomar's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsjoms&show_icons=true&theme=radical)
 
-### 🐍 Most Used Language (Custom)
+### 🐍 Most Used Languages
 
 ![Python](https://img.shields.io/badge/Python-95%25-brightgreen?style=for-the-badge)  
 ![Java](https://img.shields.io/badge/Java-5%25-orange?style=for-the-badge)
