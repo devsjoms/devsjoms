@@ -16,7 +16,20 @@
 ### 📊 GitHub Stats
 ![Jomar's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsjoms&show_icons=true&theme=radical)
 
-### 🐍 Most Used Language
+### 🐍 Most Used Language (Custom)
 
-Python ![Python 95%](https://progress-bar.dev/95/?title=Python&width=300&color=brightgreen)  
-Java   ![Java 5%](https://progress-bar.dev/5/?title=Java&width=300&color=orange)
+<div align="left">
+
+  <p><b>Python</b></p>
+  <div style="background-color:#ddd; border-radius:10px; width:300px;">
+    <div style="background-color:#4CAF50; width:95%; height:20px; border-radius:10px;"></div>
+  </div>
+  <p><b>95%</b></p>
+
+  <p><b>Java</b></p>
+  <div style="background-color:#ddd; border-radius:10px; width:300px;">
+    <div style="background-color:#FF9800; width:5%; height:20px; border-radius:10px;"></div>
+  </div>
+  <p><b>5%</b></p>
+
+</div>
