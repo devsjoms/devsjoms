@@ -17,5 +17,6 @@
 ![Jomar's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsjoms&show_icons=true&theme=radical)
 
 ### 🐍 Most Used Language
-Python ![95%](https://progress-bar.dev/95/?title=Python&width=300&color=brightgreen)  
-Java   ![5%](https://progress-bar.dev/5/?title=Java&width=300&color=orange)
+
+Python ![Python 95%](https://progress-bar.dev/95/?title=Python&width=300&color=brightgreen)  
+Java   ![Java 5%](https://progress-bar.dev/5/?title=Java&width=300&color=orange)
