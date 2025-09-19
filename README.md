@@ -14,7 +14,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 📊 GitHub Stats
-![Jomar's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomarnaval&show_icons=true&theme=radical)
+![Jomar's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsjoms&show_icons=true&theme=radical)
 
 ### 🐍 Most Used Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomarnaval&layout=compact&theme=radical&hide=html,css&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsjoms&layout=compact&theme=radical&hide=html,css&langs_count=5)
