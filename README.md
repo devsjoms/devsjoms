@@ -18,18 +18,5 @@
 
 ### 🐍 Most Used Language (Custom)
 
-<div align="left">
-
-  <p><b>Python</b></p>
-  <div style="background-color:#ddd; border-radius:10px; width:300px;">
-    <div style="background-color:#4CAF50; width:95%; height:20px; border-radius:10px;"></div>
-  </div>
-  <p><b>95%</b></p>
-
-  <p><b>Java</b></p>
-  <div style="background-color:#ddd; border-radius:10px; width:300px;">
-    <div style="background-color:#FF9800; width:5%; height:20px; border-radius:10px;"></div>
-  </div>
-  <p><b>5%</b></p>
-
-</div>
+![Python](https://img.shields.io/badge/Python-95%25-brightgreen?style=for-the-badge)  
+![Java](https://img.shields.io/badge/Java-5%25-orange?style=for-the-badge)
