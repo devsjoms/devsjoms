@@ -4,7 +4,7 @@
 -> 🌱 I’m currently learning Python, and Web Dev soon.
 -> 👯 I’m looking to collaborate on my small projects soon.
 -> 🤔 I’m looking for help with Web Development
-- 📫 How to reach me: joms.dev@gmail.com
+-> 📫 How to reach me: joms.dev@gmail.com
 </pre>
 
 ### 🚀 Tech Stack
