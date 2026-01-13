@@ -16,10 +16,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📊 GitHub Stats
-![Jomar Naval's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devsjoms&show_icons=true&theme=radical&hide_border=true)
-
+![Jomar Naval's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devsjoms&show_icons=true&theme=radical)
 
 ### 🐍 Most Used Languages
 
-![Python](https://img.shields.io/badge/Python-95%25-brightgreen?style=for-the-badge)  
-![Java](https://img.shields.io/badge/Java-5%25-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-35%25-brightgreen?style=for-the-badge)<br>
+![HTML](https://img.shields.io/badge/HTML5-30%25-brightgreen?style=for-the-badge)<br>
+![CSS](https://img.shields.io/badge/CSS3-30%25-brightgreen?style=for-the-badge)<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-3%25-orange?style=for-the-badge)<br>
+![Java](https://img.shields.io/badge/Java-2%25-orange?style=for-the-badge)<br>
