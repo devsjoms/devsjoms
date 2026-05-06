@@ -16,7 +16,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📊 GitHub Stats
-![Jomar Naval's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devsjoms&show_icons=true&theme=radical)
+![Jomar Naval's GitHub Stats](https://github-readme-stats.vercel.app)
 
 ### 🐍 Most Used Languages
 
