@@ -31,17 +31,20 @@
 
 ## 🛠 Tech Stack
 
-<h2 style="color: blue">FRONTEND</h2>
+<h2>FRONTEND</h2>
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img height = "40" src="https://skillicons.dev/icons?i=html,css,js,react" />
 
 </p>
-<h2 style="color: blue">BACKEND</h2>
+<h2>BACKEND</h2>
 <p align="left">
+<img height = "40" src="https://skillicons.dev/icons?i=python,php,mysql,express" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,figma" />
-
+<h2>TOOLS</h2>
+<p align="left">
+<img height = "40" src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ## 📊 GitHub Stats
