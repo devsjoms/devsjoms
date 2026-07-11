@@ -31,30 +31,30 @@
 
 ## 🛠 Tech Stack
 
-<h2>FRONTEND</h2>
+
+<p>FRONTEND</p>
 <p align="left">
 
 <img height = "40" src="https://skillicons.dev/icons?i=html,css,js,react" />
 
 </p>
-<h2>BACKEND</h2>
+<p>BACKEND</p>
 <p align="left">
 <img height = "40" src="https://skillicons.dev/icons?i=python,php,mysql,express" />
 </p>
 
-<h2>TOOLS</h2>
+<p font-size = "100">TOOLS</p>
 <p align="left">
 <img height = "40" src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
+---
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devsjoms&show_icons=true&theme=github_dark&hide_border=true"/>
 </p>
-<p align ="left">
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devsjoms&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+
 
 ---
 
@@ -65,6 +65,8 @@
 <img src="https://streak-stats.demolab.com?user=devsjoms&theme=github-dark-blue&hide_border=true"/>
 
 </p>
+
+
 
 ---
 
