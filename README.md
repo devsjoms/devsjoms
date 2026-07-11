@@ -40,7 +40,7 @@
 </p>
 <p>BACKEND</p>
 <p align="left">
-<img height = "40" src="https://skillicons.dev/icons?i=python,php,mysql,express" />
+<img height = "40" src="https://skillicons.dev/icons?i=python,nodejs,express,mysql" />
 </p>
 
 <p font-size = "100">TOOLS</p>
